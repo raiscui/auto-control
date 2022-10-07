@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-darwin-x64`
+# `@raiscui/auto-control-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@napi-rs/package-template`
+This is the **x86_64-apple-darwin** binary for `@raiscui/auto-control`
